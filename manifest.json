@@ -1,7 +1,7 @@
 {
-  "name": "Cenafy",
-  "version": "1.0.4",
-  "description": "And his name is John Cena",
+  "name": "Youtube Downloader",
+  "version": "1.0",
+  "description": "GOOD LUCK FIXING THIS !",
 
   "content_scripts": [
     {
